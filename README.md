@@ -1,4 +1,4 @@
-# cprogramming_practice
+# CProgramming Practice
 - This is a repo of different c-programming challenges, problems and other adventures.
 
 ## EASY
