@@ -61,6 +61,12 @@ double convertSize(long bytes) {
     }
 }
 
+/**
+ * Checks the size of file and returns the appropriate label.
+ *
+ * @param bytes: file size in bytes
+ * @return char pointer
+ */
 char* getStr(long bytes) {
     long size = bytes;
     char* str = "";
